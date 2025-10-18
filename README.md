@@ -3,7 +3,7 @@
 
 
 
-This Power BI dashboard provides an analytical overview of Sales Insights for a retail business. It helps understand sales performance, customer behavior, and product trends through interactive visuals and KPIs.
+This Excel dashboard provides an analytical overview of Sales Insights for a retail business. It helps understand sales performance, customer behavior, and product trends through interactive visuals and KPIs.
 
 📈 Key Metrics
 Gross Percentage: 4761.90
